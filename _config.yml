@@ -1,0 +1,28 @@
+name: Cornerstone Psychological Services
+favicon: null
+layout_spectrum: 0.36258041160181165
+typography_spectrum: 0.42934826551936567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3678376686293632
+  lightness: 0.4474981394596398
+  saturation: 0.16968484339304268
+  rhythmicContrast: 0.6460245656780899
+purpose: []
