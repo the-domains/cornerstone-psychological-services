@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cornerstone Psychological Services]]></title>
         <description><![CDATA[Cornerstone Psychological Services]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cornerstone-psychological-services/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 19:27:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 19:33:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cornerstone-psychological-services/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89251a85-39a7-485d-9913-3113fdcef395.jpg">]]></description>
-            <link>undefined5f388d8c-3b4f-422c-ba4f-260535ddc162/index.html</link>
+            <link>https://thegrid.ai/cornerstone-psychological-services/5f388d8c-3b4f-422c-ba4f-260535ddc162/index.html</link>
             <guid isPermaLink="false">5f388d8c-3b4f-422c-ba4f-260535ddc162</guid>
-            <pubDate>Sat, 20 Feb 2016 19:27:06 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 19:30:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
